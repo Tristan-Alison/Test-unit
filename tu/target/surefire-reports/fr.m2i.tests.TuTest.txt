@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: fr.m2i.tests.TuTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.04 s <<< FAILURE! - in fr.m2i.tests.TuTest
+puissance  Time elapsed: 0.005 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Non fonctionnel puissance
+	at fr.m2i.tests.TuTest.puissance(TuTest.java:95)
+
+division  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Non fonctionnel division
+	at fr.m2i.tests.TuTest.division(TuTest.java:73)
+
